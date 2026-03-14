@@ -217,9 +217,9 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 ## 👤 Author
 
 **Your Name**
-- 🐙 GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
-- 📧 Email: your.email@example.com
+- 🐙 GitHub: https://github.com/OmarAwad911
+- 💼 LinkedIn: https://www.linkedin.com/in/omar-eldomyaty/
+- 📧 Email: omareldomyaty70@gmail.com
 
 ---
 
