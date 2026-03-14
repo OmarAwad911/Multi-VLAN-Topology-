@@ -77,27 +77,6 @@ See full details → [`docs/network-diagram.md`](docs/network-diagram.md)
 | **NAT/PAT** | Internet access via edge router |
 | **SSH** | Secure remote device management |
 
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) **v8.0 or later**
-- Free registration at [Cisco NetAcad](https://www.netacad.com)
-
-### Open the Project
-
-```bash
-# 1. Clone this repository
-git clone https://github.com/YOUR_USERNAME/enterprise-campus-network.git
-
-# 2. Navigate to the project folder
-cd enterprise-campus-network
-
-# 3. Open the .pkt file in Cisco Packet Tracer
-#    File → Open → select project_new.pkt
-```
 
 ---
 
