@@ -4,12 +4,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Project Title** | Enterprise Campus Network Design |
-| **Tool Used** | Cisco Packet Tracer 8.x |
+| **Project Title** |Error404 Company Network Design |
+| **Tool Used** | Cisco Packet Tracer 9.0.0 |
 | **Network Type** | Enterprise / Campus LAN |
 | **Design Model** | Cisco Three-Tier Hierarchical |
 | **Completion Date** | March 2026 |
-| **Author** | Your Name |
+| **Author** |Omar Awad |
 
 ---
 
