@@ -17,7 +17,6 @@
 
 - [Overview](#-overview)
 - [Network Topology](#-network-topology)
-- [Floor & VLAN Layout](#-floor--vlan-layout)
 - [IP Addressing Scheme](#-ip-addressing-scheme)
 - [Server Farm](#-server-farm)
 - [Technologies Used](#-technologies-used)
@@ -49,44 +48,6 @@
 ![Error404 Company — Network Topology](image.png)
 
 > *Full topology .*
-
----
-
-##  Floor & VLAN Layout
-
-###  FLOOR 1 — Switch S1
-
-| Department | VLAN | Subnet | Devices |
-|------------|------|--------|---------|
-| **SALES** | VLAN 10 | 192.168.1.0/29 | PCs: Ahmed, Sala + Printer |
-| **HR** | VLAN 20 | 192.168.1.8/29 | PCs: Rad + others + Printer |
-
----
-
-###  FLOOR 2 — Switch S2
-
-| Department | VLAN | Subnet | Devices |
-|------------|------|--------|---------|
-| **MARKETING** | VLAN 30 | 192.168.1.16/29 | PCs: Mohamed, Esrae, Abdulrahman + Printer |
-| **MANAGEMENT** | VLAN 40 | 192.168.1.24/29 | PCs: Ali, Mahmoud + Printer |
-
----
-
-###  FLOOR 3 — Switch S3
-
-| Department | VLAN | Subnet | Devices |
-|------------|------|--------|---------|
-| **IT** | VLAN 50 | 192.168.1.32/29 | PCs: Son, Berry, LoCas + Printer |
-| **OPERATIONS** | VLAN 60 | 192.168.1.40/29 | PCs: Bentaface, Dembele + Printer |
-
----
-
-###  FLOOR 4 — Switch S4
-
-| Department | VLAN | Subnet | Devices |
-|------------|------|--------|---------|
-| **FINANCE** | VLAN 70 | 192.168.1.48/29 | PCs: Youns, Kroos, Casimero + Printer |
-| **RECEPTIONS** | VLAN 80 | 192.168.1.56/29 | PCs: Ramos, Carvajal + Printer |
 
 ---
 
