@@ -40,7 +40,7 @@ This project simulates a real-world **enterprise campus network** serving multip
 
 
 ```
-![alt text](image.png)
+(image.png)
 ```
 
 ---
