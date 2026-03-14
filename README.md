@@ -38,7 +38,7 @@ This project simulates a real-world **enterprise campus network** serving multip
 
 ## 🗺️ Network Topology
 
-See full details → [`docs/network-diagram.md`]image.png
+See full details → image.png
 
 ```
                         ┌─────────────────────┐
