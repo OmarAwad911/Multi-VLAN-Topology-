@@ -18,7 +18,6 @@
 - [Overview](#-overview)
 - [Network Topology](#-network-topology)
 - [IP Addressing Scheme](#-ip-addressing-scheme)
-- [Server Farm](#-server-farm)
 - [Technologies Used](#-technologies-used)
 - [Testing & Verification](#-testing--verification)
 - [Learning Objectives](#-learning-objectives)
@@ -66,19 +65,6 @@
 | WAN Link | 10.10.10.0/30 | 255.255.255.252 | Router1 ↔ Router2 |
 | Server Farm | 192.168.200.1/29 | 255.255.255.248 | External company network |
 
----
-
-##  Server Farm
-
-Located in the **external company network (192.168.200.1/29)**, reachable via Router2:
-
-| Server | Service | Role |
-|--------|---------|------|
-| **ERROR404** | Company Server | Main application server |
-| **DHCP** | DHCP Server | Dynamic IP assignment for all VLANs |
-| **DNS** | DNS Server | Internal name resolution |
-| **EMAIL** | Mail Server | Company-wide email service |
-| **FTP** | FTP Server | File transfer and storage |
 
 ---
 
