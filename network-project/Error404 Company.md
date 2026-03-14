@@ -9,7 +9,7 @@
 | **Network Type** | Enterprise / Campus LAN |
 | **Design Model** | Cisco Three-Tier Hierarchical |
 | **Completion Date** | March 2026 |
-| **Author** |Omar Awad |
+| **Team** |Group C |
 
 ---
 
@@ -155,4 +155,4 @@ show ssh
 
 ---
 
-*Documentation prepared by: Your Name | March 2026*
+*Documentation prepared by: Omar Awad | March 2026*
