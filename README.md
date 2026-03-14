@@ -80,22 +80,6 @@ See full details → [`docs/network-diagram.md`](docs/network-diagram.md)
 
 ---
 
-## 📁 Project Structure
-
-```
-enterprise-campus-network/
-│
-├── project_new.pkt              # Cisco Packet Tracer simulation file
-├── README.md                    # This file
-├── LICENSE
-│
-├── docs/
-│   ├── network-diagram.md       # Full topology & diagram description
-│   └── project-documentation.md # Design decisions, goals, and analysis
-│
-└── configs/
-    └── device-configs.md        # CLI configurations for all devices
-```
 
 ---
 
