@@ -20,7 +20,6 @@
 - [IP Addressing Scheme](#-ip-addressing-scheme)
 - [Server Farm](#-server-farm)
 - [Technologies Used](#-technologies-used)
-- [Getting Started](#-getting-started)
 - [Testing & Verification](#-testing--verification)
 - [Learning Objectives](#-learning-objectives)
 - [Author](#-author)
@@ -97,18 +96,6 @@ Located in the **external company network (192.168.200.1/29)**, reachable via Ro
 | **Cloud Simulation** | Internet access via Cloud0 |
 | **802.1Q Trunking** | All switch uplinks carry multiple VLANs |
 
----
-
-##  Getting Started
-
-### Requirements
-- [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) v8.0+
-
-### Open the Project
-```bash
-git clone https://github.com/OmarAwad911/Multi-VLAN-Topology-.git
-```
-Then open `project_new.pkt` in Cisco Packet Tracer.
 
 ---
 
