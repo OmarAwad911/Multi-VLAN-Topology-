@@ -38,25 +38,9 @@ This project simulates a real-world **enterprise campus network** serving multip
 
 ## 🗺️ Network Topology
 
-See full details → image.png
 
 ```
-                        ┌─────────────────────┐
-                        │     CORE SWITCH      │
-                        │   (Layer 3 / L3SW)   │
-                        └────────┬────────┬────┘
-                                 │        │
-               ┌─────────────────┘        └──────────────────┐
-               │                                              │
-     ┌─────────┴──────────┐                      ┌───────────┴────────┐
-     │  DIST. SWITCH A     │                      │  DIST. SWITCH B    │
-     │  (Building A)       │                      │  (Building B)      │
-     └──┬──────┬──────┬───┘                      └──┬──────┬──────┬───┘
-        │      │      │                              │      │      │
-     [ACC]  [ACC]  [ACC]                          [ACC]  [ACC]  [ACC]
-      SW1    SW2    SW3                            SW4    SW5    SW6
-       │      │      │                              │      │      │
-     [IT] [Admin] [HR]                           [Fin] [Ops]  [Srv]
+![alt text](image.png)
 ```
 
 ---
