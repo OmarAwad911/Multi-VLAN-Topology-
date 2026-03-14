@@ -48,7 +48,7 @@
 
 ![Error404 Company — Network Topology](image.png)
 
-> *Full topology showing 4 floors, core switch, dual routers, server farm, and cloud connection.*
+> *Full topology .*
 
 ---
 
