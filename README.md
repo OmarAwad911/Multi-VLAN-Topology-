@@ -16,7 +16,6 @@
 - [Overview](#-overview)
 - [Network Topology](#-network-topology)
 - [Technologies Used](#-technologies-used)
-- [Getting Started](#-getting-started)
 - [Department VLANs](#-department-vlans)
 - [IP Addressing Scheme](#-ip-addressing-scheme)
 - [Testing & Verification](#-testing--verification)
