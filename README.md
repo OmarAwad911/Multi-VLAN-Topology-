@@ -16,7 +16,6 @@
 - [Overview](#-overview)
 - [Network Topology](#-network-topology)
 - [Technologies Used](#-technologies-used)
-- [Project Structure](#-project-structure)
 - [Getting Started](#-getting-started)
 - [Department VLANs](#-department-vlans)
 - [IP Addressing Scheme](#-ip-addressing-scheme)
@@ -77,9 +76,6 @@ See full details → [`docs/network-diagram.md`](docs/network-diagram.md)
 | **ACLs** | Security — restrict inter-department access |
 | **NAT/PAT** | Internet access via edge router |
 | **SSH** | Secure remote device management |
-
----
-
 
 ---
 
