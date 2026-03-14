@@ -13,7 +13,7 @@
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Overview](#-overview)
 - [Network Topology](#-network-topology)
@@ -44,7 +44,7 @@
 
 ---
 
-## 🗺️ Network Topology
+##  Network Topology
 
 ![Error404 Company — Network Topology](image.png)
 
@@ -52,9 +52,9 @@
 
 ---
 
-## 🏗️ Floor & VLAN Layout
+##  Floor & VLAN Layout
 
-### 🔴 FLOOR 1 — Switch S1
+###  FLOOR 1 — Switch S1
 
 | Department | VLAN | Subnet | Devices |
 |------------|------|--------|---------|
@@ -63,7 +63,7 @@
 
 ---
 
-### 🟣 FLOOR 2 — Switch S2
+###  FLOOR 2 — Switch S2
 
 | Department | VLAN | Subnet | Devices |
 |------------|------|--------|---------|
@@ -72,7 +72,7 @@
 
 ---
 
-### 🩷 FLOOR 3 — Switch S3
+###  FLOOR 3 — Switch S3
 
 | Department | VLAN | Subnet | Devices |
 |------------|------|--------|---------|
@@ -81,7 +81,7 @@
 
 ---
 
-### 🟪 FLOOR 4 — Switch S4
+###  FLOOR 4 — Switch S4
 
 | Department | VLAN | Subnet | Devices |
 |------------|------|--------|---------|
@@ -90,7 +90,7 @@
 
 ---
 
-## 📊 IP Addressing Scheme
+##  IP Addressing Scheme
 
 | Network Segment | Address | Subnet Mask | Notes |
 |-----------------|---------|-------------|-------|
@@ -108,7 +108,7 @@
 
 ---
 
-## 🖥️ Server Farm
+##  Server Farm
 
 Located in the **external company network (192.168.200.1/29)**, reachable via Router2:
 
@@ -122,7 +122,7 @@ Located in the **external company network (192.168.200.1/29)**, reachable via Ro
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Technology | Implementation |
 |------------|---------------|
@@ -138,7 +138,7 @@ Located in the **external company network (192.168.200.1/29)**, reachable via Ro
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Requirements
 - [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) v8.0+
@@ -151,7 +151,7 @@ Then open `project_new.pkt` in Cisco Packet Tracer.
 
 ---
 
-## ✅ Testing & Verification
+##  Testing & Verification
 
 ```cisco
 ! Check all VLANs are active
@@ -172,7 +172,7 @@ Router# show ip dhcp binding
 
 ---
 
-## 📚 Learning Objectives
+##  Learning Objectives
 
 This project demonstrates proficiency in:
 
